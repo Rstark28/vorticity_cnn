@@ -3,3 +3,5 @@ jax_cfd
 matplotlib
 seaborn
 xarray
+ipykernel
+jupyterlab
