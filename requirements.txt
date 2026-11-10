@@ -1,7 +1,11 @@
 jax
 jax_cfd
 matplotlib
+numpy
+openpyxl
+pandas
 seaborn
 xarray
 ipykernel
 jupyterlab
+jupyterlab-vim
