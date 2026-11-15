@@ -1,3 +1,4 @@
 .venv/
 .venv312/
 .ipynb_checkpoints
+*.pkl
